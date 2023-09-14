@@ -36,3 +36,12 @@ console.log(typeof booleanE);
 // 1 => true , 0 => false
 // "" => false, "Sanjoy"=> true
 
+
+// ***************operation*********************
+
+console.log("1" + 2); //12
+console.log(1 + "2"); // 12
+console.log(1 + 2); //3
+
+console.log("1" + 2 + 2) // 122 (first sting so looking all like string)
+console.log(1 + 2 + "2") // 32 (first number so add then string so concatinate)
