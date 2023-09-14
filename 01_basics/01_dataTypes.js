@@ -13,5 +13,5 @@
 */
 //typeOf we can use two way 
 
-console.log(typeof (null)) // object
-console.log(typeof undefined) // undefined
+console.log(typeof (null)) // null is a object
+console.log(typeof undefined) // undefined is type 
